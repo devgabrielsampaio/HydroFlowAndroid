@@ -1,0 +1,2 @@
+# HydroFlowAndroid
+ O projeto HYDROFLOW desenvolvido em Java com Firebase para dispositivos móveis visa conscientizar a sociedade sobre a escassez de água potável e o consumo responsável. Buscando desenvolver um sistema remoto de medição de consumo de água através de um aplicativo para acompanhamento em tempo real. O projeto também mapeia fluxos de água, identificando padrões de consumo e áreas para reutilização. Projeto finalista da FECTI 2023.

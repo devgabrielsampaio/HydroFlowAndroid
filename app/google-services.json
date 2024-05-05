@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "870841109065",
+    "firebase_url": "https://hydroflow-ce2af-default-rtdb.firebaseio.com",
+    "project_id": "hydroflow-ce2af",
+    "storage_bucket": "hydroflow-ce2af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870841109065:android:46ed7c38b0dd07d58e4d98",
+        "android_client_info": {
+          "package_name": "com.example.hydroflowandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870841109065-191r99i2sneji6lek33qusgmq27e4bb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZL-W69g-TWmK5l5jtM6yHDX8xRKQtGUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870841109065-191r99i2sneji6lek33qusgmq27e4bb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
